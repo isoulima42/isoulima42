@@ -16,7 +16,11 @@
 | [libft](https://github.com/isoulima42/Libft) | 125/100 |
 | [ft_printf](https://github.com/isoulima42/Printf) | 100/100 |
 | [get_next_line](https://github.com/isoulima42/GNL) | 105/100 |
-| push_swap | en cours |
+| Born2beroot | 100/100 |
+| [push_swap](https://github.com/isoulima42/push_swap) | 84/100 |
+| [so_long](https://github.com/isoulima42/so_long) | 100/100 |
+| [pipex](https://github.com/isoulima42/pipex) | 100/100 |
+| Minishell | en cours |
 
 ## Stack
 
