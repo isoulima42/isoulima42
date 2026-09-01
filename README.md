@@ -7,7 +7,7 @@
 🔧 Développement web & services numériques  
 🃏 Création d'un jeu de cartes  
 🎓 Cursus 42 — programmation bas niveau en C  
-🎥 Contenu éducatif sur la Piscine 42 — [YouTube](https://youtube.com/@isoulima42) · [piscine42.com](https://piscine42.com)
+🎥 Contenu éducatif sur le langage C — [YouTube](https://youtube.com/@isoulima42)
 
 ## 42 Progress
 
