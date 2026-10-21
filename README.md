@@ -20,7 +20,8 @@
 | [push_swap](https://github.com/isoulima42/push_swap) | 84/100 |
 | [so_long](https://github.com/isoulima42/so_long) | 100/100 |
 | [pipex](https://github.com/isoulima42/pipex) | 100/100 |
-| Minishell | en cours |
+| [minishell](https://github.com/isoulima42/minishell) | 100/100 |
+| [philosophers](https://github.com/isoulima42/philo) | 100/100 |
 
 ## Stack
 
